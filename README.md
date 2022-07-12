@@ -1,8 +1,3 @@
-![Python 3.7](https://img.shields.io/badge/python-3.7-green.svg)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
-# Self-Supervised Euphemism Detection and Identification for Content Moderation
-This repo is the Python 3 implementation of __[Self-Supervised Euphemism Detection and Identification for Content Moderation](https://arxiv.org/pdf/2103.16808.pdf)__ (42nd IEEE Symposium on Security and Privacy 2021).
 
 
 ## Table of Contents
